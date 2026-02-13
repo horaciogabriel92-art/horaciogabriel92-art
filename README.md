@@ -22,7 +22,8 @@ Mi enfoque actual está en la creación de soluciones escalables que integran mo
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=horaciogabriel92-art&layout=compact&theme=vision-friendly-dark)
 
 ### 🌍 Mis Contribuciones 3D (Skyline)
-[Ver mi GitHub Skyline](https://skyline.github.com/horaciogabriel92-art/2025)
+[Crea tu propio GitHub Skyline aquí](https://skyline.github.com/)
+*(Una vez generado, puedes descargar la imagen o video y subirlo aquí)*
 
 ### 🎨 Un toque de diversión
 ![Octocat](https://octodex.github.com/images/codercat.jpg)
