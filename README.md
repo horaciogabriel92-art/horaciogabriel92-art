@@ -46,11 +46,4 @@ graph TD;
 ```
 
 ---
-
-### 📊 GitHub Activity
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=horaciogabriel92-art&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
----
-
-[Crea tu propio GitHub Skyline aquí](https://skyline.github.com/)
+gh skyline --year 2026
