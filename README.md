@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Horacio Gabriel! 👋
 
-<!--
-**horaciogabriel92-art/horaciogabriel92-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are some stats about my contributions and languages used.
 
-Here are some ideas to get you started:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=horaciogabriel92-art&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=horaciogabriel92-art&layout=compact&theme=vision-friendly-dark)
+
+### Mis Contribuciones 3D (Skyline)
+[Ver mi GitHub Skyline](https://skyline.github.com/horaciogabriel92-art/2025)
+
+### Un toque de diversión
+![Octocat](https://octodex.github.com/images/codercat.jpg)
