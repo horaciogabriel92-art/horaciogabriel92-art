@@ -32,18 +32,17 @@ Mi enfoque actual está en la creación de soluciones escalables que integran **
 
 ### 🤖 Workflow Architecture
 
-```mermaid
-graph TD;
-    User([Usuario]) -->|Solicitud| API_Gateway[API Gateway / Webhook];
-    API_Gateway --> Orchestrator{Agente Orquestador};
-    Orchestrator -->|RAG Query| VectorDB[(Vector Database)];
-    Orchestrator -->|Tool Call| ExternalAPI[External Services API];
-    Orchestrator -->|Refinamiento| LLM[LLM (Gemini/Llama)];
-    LLM -->|Respuesta| Orchestrator;
-    Orchestrator -->|Resultado Final| User;
-    style Orchestrator fill:#f9f,stroke:#333,stroke-width:2px;
-    style LLM fill:#bbf,stroke:#333,stroke-width:2px;
+graph TD
+    User([Usuario]) -->|Solicitud| API_Gateway[API Gateway / Webhook]
+    API_Gateway --> Orchestrator{Agente Orquestador}
+    Orchestrator -->|RAG Query| VectorDB[(Vector Database)]
+    Orchestrator -->|Tool Call| ExternalAPI[External Services API]
+    Orchestrator -->|Refinamiento| LLM[LLM Gemini/Llama]
+    LLM -->|Respuesta| Orchestrator
+    Orchestrator -->|Resultado Final| User
+
+    style Orchestrator fill:#f9f,stroke:#333,stroke-width:2px
+    style LLM fill:#bbf,stroke:#333,stroke-width:2px
 ```
 
----
-gh skyline --year 2026
+
